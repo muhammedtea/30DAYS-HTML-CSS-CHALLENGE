@@ -1,11 +1,9 @@
-## Steps on how to create Ordered and Unordered lists in HTML.
+## Steps on how to create a new repository on the command line
 
-An unordered list is listed without numberings
-while ordered list has numberings.
-
-UL stands for Unordered List while OL stands for Ordered List.
-
-li defines a list item.
-
-Example of ordered and unordered lists are in my index.
-
++ echo "repository name" >> README.MD
++ git init
++ git add README.md
++ git commit -m "first commit"
++ git branch -M main
++ git remote add origin 
++ git push -u origin main
