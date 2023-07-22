@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#list {
+    display: flex;
+    flex-direction: row;
+}
+
+#new {
+    display: flex;
+    align-items: center;
+
+
+}
